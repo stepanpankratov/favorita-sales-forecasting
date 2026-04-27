@@ -1,0 +1,32 @@
+{
+  "baselines": [
+    {
+      "model": "Naive",
+      "nwrmsle": 0.745125321265437,
+      "wmape": 0.7577663181414696
+    },
+    {
+      "model": "SeasonalNaive",
+      "nwrmsle": 0.7103232132968454,
+      "wmape": 0.6000568764273563
+    },
+    {
+      "model": "AutoTheta",
+      "nwrmsle": 0.63186449857884,
+      "wmape": 0.599128310705819
+    },
+    {
+      "model": "AutoETS",
+      "nwrmsle": 0.6444787844863578,
+      "wmape": 0.5447583228534342
+    }
+  ],
+  "catboost": {
+    "nwrmsle": 0.5047631895775322,
+    "wmape": 0.4437792198610168
+  },
+  "nn": {
+    "nwrmsle": 0.5690233707427979
+  },
+  "ensemble_alpha": 0.8
+}
