@@ -1,5 +1,7 @@
 # Favorita Grocery Sales Forecasting
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![CatBoost](https://img.shields.io/badge/model-CatBoost-yellow) ![PyTorch](https://img.shields.io/badge/MIMO%20MLP-PyTorch-red) ![License](https://img.shields.io/badge/license-MIT-green)
+
 **HSE, Анализ временных рядов, 2025–2026**
 Команда: **Степан Панкратов** (пайплайн, модели, эксперименты) · **Максим Сидоров** (EDA, анализ ошибок, отчёт)
 
